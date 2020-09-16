@@ -1,10 +1,6 @@
-package Homework1;
 /**
  * Playlist class that stores all the song records
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
  */
 public class Playlist implements Cloneable{
 	
