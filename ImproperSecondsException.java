@@ -1,10 +1,6 @@
-package Homework1;
 /**
  * ImproperSecondsException class that is invoked when an ImproperSecondsException is thrown.
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
  */
 public class ImproperSecondsException extends Exception {
 
