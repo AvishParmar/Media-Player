@@ -1,10 +1,6 @@
-package Homework1;
 /**
  * SongRecord class that creates a SongRecord object
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
  */
 public class SongRecord implements Cloneable {
 	
