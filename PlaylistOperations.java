@@ -1,5 +1,3 @@
-package Homework1;
-
 import java.io.File;
 import java.util.Scanner;
 
@@ -11,9 +9,6 @@ import javax.swing.JOptionPane;
 /**
  * Main method class that runs the entire program
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
  */
 public class PlaylistOperations {
 
